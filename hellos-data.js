@@ -1,0 +1,1 @@
+export const listOfHellos = ['hey', 'hello', 'bonjour', 'Hola'];
